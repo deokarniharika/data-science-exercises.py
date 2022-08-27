@@ -1,1 +1,3 @@
-# python-data-analytics-101
+```bash 
+Data Science Exercises- Python
+```
